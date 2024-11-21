@@ -51,19 +51,19 @@ Ensure you have the following installed:
   ```bash
   pip install google-cloud-speech google-cloud-translate google-cloud-texttospeech pydub
 
-Running the Code:
-Clone this repository:
-bash
-Copy code
+## Running the Code:
+1. Clone this repository:
+```bash
 git clone https://github.com/your-username/Healthcare-Translation-App.git
-Navigate to the project directory:
-bash
-Copy code
+```
+2. Navigate to the project directory:
+```bash
 cd Healthcare-Translation-App
-Run the Python script:
-bash
-Copy code
+```
+3. Run the Python script:
+```bash
 python main.py
+```
 
 ## Deployment:
 This project was intended to be deployed on platforms like Vercel, Cursor, or V0, but due to technical limitations, deployment was not completed within the 48-hour window. However, the code and features are fully functional locally, and you can follow the instructions above to run it.
