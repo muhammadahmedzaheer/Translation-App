@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agile-sanctum-442220-v0",
+  "private_key_id": "546e65f56962841051f58a4b1046f8360eb931e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwwSTJ/GjxrIN2\nctmQJ9FBelCdxck7s+mEuBxiR8PWZBD1QMqIcFkIFEE2rMtqZ7srTrzhX3LQkz7t\n7ZS6ln8L8k8BhnVZ29QKAl5lq6wU6zAi/B2O17RibbZpDSfWRB2h8gPBHLUc8TVX\nhd5tO5ojypzryP78vAcPA9Y8jGKPOpUp/Q+7ghntOkgN75Xzx5gGgn9izSb/bGN6\nKL/TJh7hgasaenHcu/jZijfhi+UPB6K8Pi9dC6Gl3YcdLjc+oe0uVYfvx+ZLaQsf\n7sETfdPn2W/Zn1O3f9RuUfTVGuwIuaf/w0anJIf3Iov4AfoqSsh4qx/TsjcXNiIm\nJ0l0v+bfAgMBAAECggEAHKNmrQ1nCYU8laP9KTSyXGwPhMinlrNLSjQ0cR4UlneH\nId2aEyo02rDBcjTkDnz5IAa1ZsS6yx2YbB964hKBSjO75lDdUa5i+C4zEkES9B65\nIWn89ghwEySYkgPOKRLHRFZ8kjzvAV35mRE5HTSzgEoTS8a4vcVPVXj3LL9INtFu\n6Hsls79z3JfxTCsmbJZCbmNsNxCJ5skzuVJtf6ZzvMlQLc60BQC5uVQ3HSK2vqri\nysVsbyKxeH+DcjdGzq1PIkHY8cTs6ejnV+tVSKhc8vHn0dgixqvU4JBemg3tGG33\nLpvkbSYvRHbBMJzB5yr3qJk/sjMSbyT2Rx3aKYePOQKBgQD22ExdPABgm4gX2Hyp\nPH1lsi29w8DSlf8oLjbaz6p22S1anBNe0bneNBI8GnW8hOpv3v1RlHx5el5mLX5l\nP83uVcdGaNsRayBE+oJr2aQRQoc4YXUmtmSUzLFYR39Uym4hzKiAUFbkKmL4T+su\nDFjpj0dCNikpPN53y07fFXitSQKBgQC3T1zFFqpkll/3uBJwUhB3rM1VlvpF4/Ue\n+u952QpiMglWMU4pe79XVtCiGKaoYS+kmBRw2JnADRh/oWA2Vm/aEPV2DrWbFD5H\n0er4zgtWcBF0MZAhGWS+RxrNpxcVuNCXJXgfmeVEvzwbgE+JhJ2UCj2cH/hNHxRO\noXsxHdE65wKBgQDfKzDnPh8NOLBy9pvGGdU5Qz0NitRiz4/PUPDxJLz2FGVnvSHa\nIPzNAwDVbAqz9OtLVyxpPDjJTzPXZxwWB/hzmQPACX69ob+b/Ww6e5tUq3Q7KglT\nhaUrzmAr8wAQta+aSUCyOXBFenjeDMsQZ8Ne7dW76+GM0eZEIgBdujjPWQKBgQC0\nu+LTz40gr8LfEvXbGI5z8ERjZwBLeH5tlSwYDw5V0s+x09sku4XkLwx1RajLy0aW\nGfvNZ0HwQPkunYWnDYIqlx3s0IPt6v+dADOULFKxXr1WuqdIeykBEkozCdOQ7y96\nVs8hGTMbnRE+bDv/cmmLVK16CWtfXo0/GafEvYlVcQKBgAykx5VP0rRqkZEPqGgz\n10Q8sWKQKIUHUXW+ObL8ic2vp8i1kX1X1J46LieGnN6g85ZymYQPGOtOm+l+z98W\nZNeIia1mhgfuduz6HwMUcB269RSPUXaMUbg7FrlDjei/JMVuRaOFYjDuwMNquSXj\nJidaOBSV8VfLWUgvNeY2+QJR\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text-service@agile-sanctum-442220-v0.iam.gserviceaccount.com",
+  "client_id": "114516290481836347185",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text-service%40agile-sanctum-442220-v0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
